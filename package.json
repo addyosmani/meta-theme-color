@@ -18,8 +18,7 @@
     "theme",
     "color",
     "theme-color",
-    "meta",
-    "tag"
+    "metatag"
   ],
   "dependencies": {
     "trim": "0.0.1",
