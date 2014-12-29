@@ -1,6 +1,6 @@
 {
   "name": "meta-theme-color",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parses a HTML theme-color from a meta tag",
   "homepage": "http://addyosmani.com",
   "author": {
