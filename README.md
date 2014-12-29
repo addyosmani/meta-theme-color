@@ -24,6 +24,9 @@ metaThemeColor('<meta name="theme-color" content="rgb(255,0,0)">');
 metaThemeColor('<meta   name="theme-color" content=" red   ">');
 // => red
 
+metaThemeColor('<meta   name="theme-color" content=" rgb(255,0,0)   ">');
+// => rgb(255,0,0)
+
 metaThemeColor('<html></html>');
 // => ''
 ```
