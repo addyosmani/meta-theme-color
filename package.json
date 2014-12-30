@@ -21,7 +21,6 @@
     "metatag"
   ],
   "dependencies": {
-    "trim": "0.0.1",
     "cheerio": "^0.18.0"
   },
   "devDependencies": {
